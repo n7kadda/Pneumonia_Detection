@@ -7,8 +7,6 @@ This project aims to detect pneumonia from chest X-ray images using various deep
 ### Kaggle Dataset
 The dataset used for this project is publicly available on Kaggle. You can download it from https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-### Included Dataset
-Alternatively, you can use the dataset included in this repository. The dataset is provided as a zipped file called `chest_xray.zip`. Please unzip the file before running the code.
 
 ## Installation
 
